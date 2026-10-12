@@ -1,0 +1,13 @@
+interface:
+  display_name: Capsule Draft Writer _Edt_Prf
+  short_description: Draft import-ready healthcare newsletter capsules from approved
+    ContextPacks
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
